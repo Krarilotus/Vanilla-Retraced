@@ -12,11 +12,11 @@ A complete packall 2nd trail maps remade by Crusader Pilaw and Krarilotus (as we
 5. Install the UCP setup, by opening the UnofficialCrusaderPatchGUI.exe inside the UCP folder and selecting your Stronghold Crusader directory. Then hit "install" and wait for the loading bar to be finished. Notice, you should close the game, before you install the Unofficial Crusader Patch on it!
 
 ## Taking part in the M80 TheBigOne Challenge
-To take part in the Challenge, please refer to the rules stated inside of the ["Vanilla Retraced Challenge M80.pdf"](https://github.com/Krarilotus/Vanilla-Retraced/blob/main/Vanilla%20Retraced%20Challenge%20M80.pdf)
+To take part in the Challenge, please refer to the rules stated inside of the [Vanilla Retraced Challenge M80.pdf](https://github.com/Krarilotus/Vanilla-Retraced/blob/main/Vanilla%20Retraced%20Challenge%20M80.pdf)
 
 ### Thank you to all contributers
-Crusader Pilaw made most of the new maps for the second trail: https://www.youtube.com/@crusaderpilaw  
-Monsterfish made the updated vanilla textures: https://github.com/Monsterfisch/StrongholdsOfConquest_  
-Heroesflorian remade map 76: https://stronghold.heavengames.com/downloads/lister.php?search=Heroesflorian  
-Nevikov remade map 62: https://www.youtube.com/@RomanNevikov  
-Xander10alpha for his updated fixed Evrey castles and AIC: https://www.youtube.com/channel/UCYlyixfoKPcz-Ixi6Nc383Q  
+[Crusader Pilaw](https://www.youtube.com/@crusaderpilaw  ) made most of the new maps for the second trail  
+[Monsterfish](https://github.com/Monsterfisch/StrongholdsOfConquest_) made the updated vanilla textures 
+[Heroesflorian](https://stronghold.heavengames.com/downloads/lister.php?search=Heroesflorian) remade map 76  
+[Nevikov](https://www.youtube.com/@RomanNevikov) remade map 62  
+[Xander10alpha](https://www.youtube.com/channel/UCYlyixfoKPcz-Ixi6Nc383Q) for his updated fixed Evrey castles and AIC:    
