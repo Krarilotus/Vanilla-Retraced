@@ -1,6 +1,7 @@
 # Vanilla-Retraced
-v1.0 of Vanilla Retraced: The upgrade to Stronghold Crusader using the UCP with a new castle set for the first and second Skirmish Trail!
-A complete packall 2nd trail maps remade by Crusader Pilaw and Krarilotus (as well as Nevikov and Heroesflorian) and also some updated vanilla textures made by Monsterfish are included! Enjoy :D
+v1.0 of Vanilla Retraced:  
+The upgrade to Stronghold Crusader using the UCP with a new castle set for the first and second Skirmish Trail!  
+A complete pack for all 2nd trail maps and also some updated vanilla textures are included! Enjoy :D
 
 ## Installation Instructions
 1. Download the code via zip by clicking on this button:  
@@ -16,7 +17,7 @@ To take part in the Challenge, please refer to the rules stated inside of the [V
 
 ### Thank you to all contributers
 [Crusader Pilaw](https://www.youtube.com/@crusaderpilaw  ) made most of the new maps for the second trail  
-[Monsterfish](https://github.com/Monsterfisch/StrongholdsOfConquest_) made the updated vanilla textures 
+[Monsterfish](https://github.com/Monsterfisch/StrongholdsOfConquest_) made the updated vanilla textures  
 [Heroesflorian](https://stronghold.heavengames.com/downloads/lister.php?search=Heroesflorian) remade map 76  
 [Nevikov](https://www.youtube.com/@RomanNevikov) remade map 62  
-[Xander10alpha](https://www.youtube.com/channel/UCYlyixfoKPcz-Ixi6Nc383Q) for his updated fixed Evrey castles and AIC:    
+[Xander10alpha](https://www.youtube.com/channel/UCYlyixfoKPcz-Ixi6Nc383Q) for his updated fixed Evrey castles and AIC    
