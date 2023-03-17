@@ -12,7 +12,7 @@ A complete packall 2nd trail maps remade by Crusader Pilaw and Krarilotus (as we
 5. Install the UCP setup, by opening the UnofficialCrusaderPatchGUI.exe inside the UCP folder and selecting your Stronghold Crusader directory. Then hit "install" and wait for the loading bar to be finished. Notice, you should close the game, before you install the Unofficial Crusader Patch on it!
 
 ## Taking part in the M80 TheBigOne Challenge
-To take part in the Challenge, please refer to the rules stated inside of the "Vanilla Retraced Challenge M80.pdf"
+To take part in the Challenge, please refer to the rules stated inside of the ["Vanilla Retraced Challenge M80.pdf"](https://github.com/Krarilotus/Vanilla-Retraced/blob/main/Vanilla%20Retraced%20Challenge%20M80.pdf)
 
 ### Thank you to all contributers
 Crusader Pilaw made most of the new maps for the second trail: https://www.youtube.com/@crusaderpilaw  
