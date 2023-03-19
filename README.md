@@ -3,7 +3,7 @@ v1.0 of Vanilla Retraced:
 The upgrade to Stronghold Crusader using the UCP with a new castle set for the first and second Skirmish Trail!  
 A complete pack for all 2nd trail maps and also some updated vanilla textures are included! Enjoy :D
 
-Watch the official Announcement Trailer here:
+Watch the official announcement trailer here:
 [![Vanilla Retraced - Stronghold Crusader Upgrade Pack](https://user-images.githubusercontent.com/51748815/226217398-dedf9a2b-272d-4d2c-a3e0-f7a86ab9d490.png)
 ](https://www.youtube.com/watch?v=xzbVAEWBDVE)
 
