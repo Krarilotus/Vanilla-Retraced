@@ -15,7 +15,7 @@ A complete pack for all 2nd trail maps and also some updated vanilla textures ar
 ## Taking part in the M80 TheBigOne Challenge
 To take part in the Challenge, please refer to the rules stated inside of the [Vanilla Retraced Challenge M80.pdf](https://github.com/Krarilotus/Vanilla-Retraced/blob/main/Vanilla%20Retraced%20Challenge%20M80.pdf)
 
-## Texture list, in case you want to only take the ones you prefer:  
+## List of textures added by Monsterfish:
 anim_pitch_dugout, tile_buildings2 = pitchrigs edges blending better with swamp  
 body_arab_assassin = assassin colors get more identifiable  
 body_fighting_monk = monk colors get more identifiable  
