@@ -15,6 +15,19 @@ A complete pack for all 2nd trail maps and also some updated vanilla textures ar
 ## Taking part in the M80 TheBigOne Challenge
 To take part in the Challenge, please refer to the rules stated inside of the [Vanilla Retraced Challenge M80.pdf](https://github.com/Krarilotus/Vanilla-Retraced/blob/main/Vanilla%20Retraced%20Challenge%20M80.pdf)
 
+## Texture list, in case you want to only take the ones you prefer:
+anim_pitch_dugout, tile_buildings2 = pitchrigs edges blending better with swamp
+body_arab_assassin = assassin colors get more identifiable
+body_fighting_monk = monk colors get more identifiable
+cracks = cracks in buildings blend in better
+face800_blank, interface_buttons = adding troops numbers to the mercenary post and barracks
+tile_chevrons, tile_land8 = making mountain slopes less bright and blend in with the sand textures of the desert
+tile_land3 = prettier round crenelations, gravel + stone coloring for better identification
+tile_land_macros = sumpf/pechtexturen/angepasste oasen texturen
+tile_rocks8 = rocky terrain texturing prettified, blending better with rocks
+tile_sea8, tile_sea_new_01 = adjusted brightness and coloring of sea and river
+tree_shrub2 = fixed levitating bush to be grounded
+
 ### Thank you to all contributers
 [Crusader Pilaw](https://www.youtube.com/@crusaderpilaw  ) made most of the new maps for the second trail  
 [Monsterfish](https://github.com/Monsterfisch/StrongholdsOfConquest_) made the updated vanilla textures  
