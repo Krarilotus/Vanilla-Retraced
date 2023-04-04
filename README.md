@@ -12,7 +12,7 @@ Watch the official announcement trailer here:
  ![image](https://user-images.githubusercontent.com/51748815/225963075-1f2fc610-01e8-4eb5-b7dc-66361f579055.png)  
  or alternatively clone this git repository, so you will have an easier time updating when this repository will get an update for newer UCP versions.
 2. Extract the contents to a new folder inside your stronghold Crusader directory
-3. Backup the maps and the gm folder by copying them and renaming the copies into something like "maps_backup", "gm_backup"
+3. Backup the maps and the gm folder by copying them and renaming the copies into something like "maps_backup", "gm_backup" (in case you only want some textures, choose those ou like from the list below)
 4. Copy and paste the gm and the maps folder into your stronghold crusader folder and accept the override
 5. Install the UCP setup, by opening the UnofficialCrusaderPatchGUI.exe inside the UCP folder and selecting your Stronghold Crusader directory. Then hit "install" and wait for the loading bar to be finished. Notice, you should close the game, before you install the Unofficial Crusader Patch on it!
 
