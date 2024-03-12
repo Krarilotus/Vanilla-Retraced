@@ -14,6 +14,13 @@ local mapping = {
   ["gm\\tile_sea_new_01.gm1"] = "ucp/plugins/Vanilla-Retraced-Unlocked-*/resources/gm/tile_sea_new_01.gm1",
   ["gm\\tile_sea8.gm1"] = "ucp/plugins/Vanilla-Retraced-Unlocked-*/resources/gm/tile_sea8.gm1",
   ["gm\\tree_shrub2.gm1"] = "ucp/plugins/Vanilla-Retraced-Unlocked-*/resources/gm/tree_shrub2.gm1",
+  ["gm\\body_knight.gm1"] = "ucp/plugins/Vanilla-Retraced-Unlocked-*/resources/gm/body_knight.gm1",
+  ["gm\\face800-blank.gm1"] = "ucp/plugins/Vanilla-Retraced-Unlocked-*/resources/gm/face800-blank.gm1",
+  ["gm\\icons_front_end.gm1"] = "ucp/plugins/Vanilla-Retraced-Unlocked-*/resources/gm/icons_front_end.gm1",
+  ["gm\\interface_buttons.gm1"] = "ucp/plugins/Vanilla-Retraced-Unlocked-*/resources/gm/interface_buttons.gm1",
+  ["gm\\interface_icons3.gm1"] = "ucp/plugins/Vanilla-Retraced-Unlocked-*/resources/gm/interface_icons3.gm1",
+  ["gm\\interface-buttons.gm1"] = "ucp/plugins/Vanilla-Retraced-Unlocked-*/resources/gm/interface-buttons.gm1",
+  ["gm\\tile_walls.gm1"] = "ucp/plugins/Vanilla-Retraced-Unlocked-*/resources/gm/tile_walls.gm1",
 }
 return {
   enable = function(self, config) 
