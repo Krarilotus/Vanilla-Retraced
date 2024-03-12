@@ -1,4 +1,5 @@
 name: Vanilla-Retraced-Unlocked
+display-name: Vanilla Retraced Unlocked
 author: Krarilotus & Crusader Pilaw
 version: 1.0.1
 dependencies:
@@ -9,4 +10,3 @@ dependencies:
   Aggressive-AI-Behaviour-Applied: ^1.4.0
   Vanilla-Interpretation-Castles-Applied: ^1.0.2
 type: plugin
-display-name: Vanilla-Retraced-Unlocked
