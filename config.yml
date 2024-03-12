@@ -1,0 +1,913 @@
+config-sparse:
+  modules:
+    ucp2-legacy:
+      config:
+        ai_resources_rebuy:
+          flour:
+            contents:
+              suggested-value:
+                enabled: true
+                sliderValue: 2
+          iron:
+            contents:
+              suggested-value:
+                enabled: true
+                sliderValue: 3
+          wood:
+            contents:
+              suggested-value:
+                enabled: true
+                sliderValue: 1
+        o_fast_placing:
+          enabled:
+            contents:
+              suggested-value: true
+        o_change_siege_engine_spawn_position_catapult:
+          enabled:
+            contents:
+              suggested-value: false
+        o_fix_rapid_deletion_bug:
+          enabled:
+            contents:
+              suggested-value: true
+        o_fix_map_sending:
+          enabled:
+            contents:
+              suggested-value: true
+        ai_access:
+          enabled:
+            contents:
+              suggested-value: true
+        ai_assaultswitch:
+          enabled:
+            contents:
+              suggested-value: true
+        ai_buywood:
+          enabled:
+            contents:
+              suggested-value: true
+        ai_defense:
+          enabled:
+            contents:
+              suggested-value: true
+        ai_addattack:
+          contents:
+            suggested-value:
+              enabled: true
+              choice: relative
+              choices:
+                absolute:
+                  slider: 5
+                relative:
+                  slider: 0.3
+        ai_attacklimit:
+          contents:
+            suggested-value:
+              enabled: true
+              sliderValue: 1000
+        ai_fix_crusader_archers_pitch:
+          enabled:
+            contents:
+              suggested-value: true
+        ai_fix_laddermen_with_enclosed_keep:
+          enabled:
+            contents:
+              suggested-value: true
+        ai_nosleep:
+          enabled:
+            contents:
+              suggested-value: true
+        ai_rebuild:
+          enabled:
+            contents:
+              suggested-value: true
+        ai_tethers:
+          enabled:
+            contents:
+              suggested-value: true
+        ai_towerengines:
+          enabled:
+            contents:
+              suggested-value: true
+        ai_attackwave:
+          contents:
+            suggested-value:
+              enabled: true
+              sliderValue: 10
+        ai_recruitstate_initialtimer:
+          contents:
+            suggested-value:
+              enabled: true
+              sliderValue: 0
+        ai_demolish:
+          ai_demolish_walls:
+            enabled:
+              contents:
+                suggested-value: true
+          ai_demolish_trapped:
+            enabled:
+              contents:
+                suggested-value: true
+          ai_demolish_eco:
+            enabled:
+              contents:
+                suggested-value: true
+        ai_housing:
+          build_housing:
+            contents:
+              suggested-value:
+                enabled: true
+                sliderValue: 8
+          campfire_housing:
+            contents:
+              suggested-value:
+                enabled: true
+                sliderValue: 10
+          delete_housing:
+            enabled:
+              contents:
+                suggested-value: true
+        fix_apple_orchard_build_size:
+          enabled:
+            contents:
+              suggested-value: true
+        o_freetrader:
+          enabled:
+            contents:
+              suggested-value: true
+        o_healer:
+          enabled:
+            contents:
+              suggested-value: true
+        o_responsivegates:
+          enabled:
+            contents:
+              suggested-value: true
+        u_arabwall:
+          enabled:
+            contents:
+              suggested-value: true
+        u_arabxbow:
+          enabled:
+            contents:
+              suggested-value: true
+        u_laddermen:
+          enabled:
+            contents:
+              suggested-value: true
+        u_spearmen:
+          enabled:
+            contents:
+              suggested-value: true
+        u_spearmen_run:
+          enabled:
+            contents:
+              suggested-value: true
+        o_fix_baker_disappear:
+          enabled:
+            contents:
+              suggested-value: true
+        o_fix_fletcher_bug:
+          enabled:
+            contents:
+              suggested-value: true
+        o_fix_ladderclimb:
+          enabled:
+            contents:
+              suggested-value: true
+        o_fix_moat_digging_unit_disappearing:
+          enabled:
+            contents:
+              suggested-value: true
+        o_restore_arabian_engineer_speech:
+          enabled:
+            contents:
+              suggested-value: true
+        u_fireballistafix:
+          enabled:
+            contents:
+              suggested-value: true
+        u_fix_applefarm_blocking:
+          enabled:
+            contents:
+              suggested-value: true
+        u_fix_lord_animation_stuck_movement:
+          enabled:
+            contents:
+              suggested-value: true
+        u_tanner_fix:
+          enabled:
+            contents:
+              suggested-value: true
+        o_increase_path_update_tick_rate:
+          enabled:
+            contents:
+              suggested-value: true
+        ai_attacktarget:
+          contents:
+            suggested-value:
+              enabled: false
+              choice: ""
+        ai_recruitinterval:
+          enabled:
+            contents:
+              suggested-value: false
+        o_firecooldown:
+          contents:
+            suggested-value:
+              enabled: false
+              sliderValue: 2000
+        o_shfy:
+          o_shfy_beer:
+            enabled:
+              contents:
+                suggested-value: false
+          o_shfy_religion:
+            enabled:
+              contents:
+                suggested-value: false
+          o_shfy_peasantspawnrate:
+            enabled:
+              contents:
+                suggested-value: false
+          o_shfy_resourcequantity:
+            enabled:
+              contents:
+                suggested-value: false
+        o_xtreme:
+          enabled:
+            contents:
+              suggested-value: true
+        o_onlyai:
+          enabled:
+            contents:
+              suggested-value: false
+        o_override_identity_menu:
+          enabled:
+            contents:
+              suggested-value: false
+        o_default_multiplayer_speed:
+          contents:
+            suggested-value:
+              enabled: true
+              sliderValue: 50
+        o_engineertent:
+          enabled:
+            contents:
+              suggested-value: true
+        o_gamespeed:
+          enabled:
+            contents:
+              suggested-value: true
+        o_keys:
+          enabled:
+            contents:
+              suggested-value: false
+        o_moatvisibility:
+          enabled:
+            contents:
+              suggested-value: true
+    startResources:
+      config:
+        startGold:
+          normal:
+            majorHumanAdvantage:
+              computer:
+                contents:
+                  suggested-value: 4000
+              human:
+                contents:
+                  suggested-value: 8000
+            minorHumanAdvantage:
+              computer:
+                contents:
+                  suggested-value: 4000
+              human:
+                contents:
+                  suggested-value: 4000
+            noAdvantage:
+              computer:
+                contents:
+                  suggested-value: 4000
+              human:
+                contents:
+                  suggested-value: 2000
+            minorComputerAdvantage:
+              computer:
+                contents:
+                  suggested-value: 6000
+              human:
+                contents:
+                  suggested-value: 2000
+            majorComputerAdvantage:
+              computer:
+                contents:
+                  suggested-value: 10000
+              human:
+                contents:
+                  suggested-value: 2000
+          crusader:
+            majorHumanAdvantage:
+              computer:
+                contents:
+                  suggested-value: 4000
+              human:
+                contents:
+                  suggested-value: 8000
+            minorHumanAdvantage:
+              computer:
+                contents:
+                  suggested-value: 4000
+              human:
+                contents:
+                  suggested-value: 4000
+            noAdvantage:
+              computer:
+                contents:
+                  suggested-value: 4000
+              human:
+                contents:
+                  suggested-value: 2000
+            minorComputerAdvantage:
+              computer:
+                contents:
+                  suggested-value: 6000
+              human:
+                contents:
+                  suggested-value: 2000
+            majorComputerAdvantage:
+              computer:
+                contents:
+                  suggested-value: 10000
+              human:
+                contents:
+                  suggested-value: 2000
+          deathmatch:
+            majorHumanAdvantage:
+              computer:
+                contents:
+                  suggested-value: 10000
+              human:
+                contents:
+                  suggested-value: 40000
+            minorHumanAdvantage:
+              computer:
+                contents:
+                  suggested-value: 10000
+              human:
+                contents:
+                  suggested-value: 20000
+            noAdvantage:
+              human:
+                contents:
+                  suggested-value: 10000
+              computer:
+                contents:
+                  suggested-value: 10000
+            minorComputerAdvantage:
+              human:
+                contents:
+                  suggested-value: 7000
+              computer:
+                contents:
+                  suggested-value: 20000
+            majorComputerAdvantage:
+              human:
+                contents:
+                  suggested-value: 3000
+              computer:
+                contents:
+                  suggested-value: 40000
+        startTroops:
+          crusader:
+            normal:
+              EuropArcher:
+                contents:
+                  suggested-value: 5
+              Spearman:
+                contents:
+                  suggested-value: 7
+              Crossbowman:
+                contents:
+                  suggested-value: 0
+              Pikeman:
+                contents:
+                  suggested-value: 0
+              Maceman:
+                contents:
+                  suggested-value: 0
+              Swordsman:
+                contents:
+                  suggested-value: 0
+              Knight:
+                contents:
+                  suggested-value: 0
+              Engineer:
+                contents:
+                  suggested-value: 0
+              Monk:
+                contents:
+                  suggested-value: 0
+              ArabArcher:
+                contents:
+                  suggested-value: 0
+              Slave:
+                contents:
+                  suggested-value: 0
+              Slinger:
+                contents:
+                  suggested-value: 0
+              Assassin:
+                contents:
+                  suggested-value: 0
+              HorseArcher:
+                contents:
+                  suggested-value: 0
+              ArabSwordsman:
+                contents:
+                  suggested-value: 0
+              FireThrower:
+                contents:
+                  suggested-value: 0
+              FireBallista:
+                contents:
+                  suggested-value: 0
+            crusader:
+              EuropArcher:
+                contents:
+                  suggested-value: 40
+              Spearman:
+                contents:
+                  suggested-value: 0
+              Crossbowman:
+                contents:
+                  suggested-value: 0
+              Pikeman:
+                contents:
+                  suggested-value: 0
+              Maceman:
+                contents:
+                  suggested-value: 0
+              Swordsman:
+                contents:
+                  suggested-value: 10
+              Knight:
+                contents:
+                  suggested-value: 4
+              Engineer:
+                contents:
+                  suggested-value: 0
+              Monk:
+                contents:
+                  suggested-value: 0
+              ArabArcher:
+                contents:
+                  suggested-value: 0
+              Slave:
+                contents:
+                  suggested-value: 0
+              Slinger:
+                contents:
+                  suggested-value: 0
+              Assassin:
+                contents:
+                  suggested-value: 0
+              HorseArcher:
+                contents:
+                  suggested-value: 0
+              ArabSwordsman:
+                contents:
+                  suggested-value: 0
+              FireThrower:
+                contents:
+                  suggested-value: 0
+              FireBallista:
+                contents:
+                  suggested-value: 0
+            deathmatch:
+              EuropArcher:
+                contents:
+                  suggested-value: 5
+              Crossbowman:
+                contents:
+                  suggested-value: 0
+              Spearman:
+                contents:
+                  suggested-value: 7
+              Pikeman:
+                contents:
+                  suggested-value: 0
+              Maceman:
+                contents:
+                  suggested-value: 0
+              Swordsman:
+                contents:
+                  suggested-value: 0
+              Knight:
+                contents:
+                  suggested-value: 0
+              Engineer:
+                contents:
+                  suggested-value: 0
+              Monk:
+                contents:
+                  suggested-value: 0
+              ArabArcher:
+                contents:
+                  suggested-value: 0
+              Slave:
+                contents:
+                  suggested-value: 0
+              Slinger:
+                contents:
+                  suggested-value: 0
+              Assassin:
+                contents:
+                  suggested-value: 0
+              HorseArcher:
+                contents:
+                  suggested-value: 0
+              ArabSwordsman:
+                contents:
+                  suggested-value: 0
+              FireThrower:
+                contents:
+                  suggested-value: 0
+              FireBallista:
+                contents:
+                  suggested-value: 0
+          arabian:
+            normal:
+              EuropArcher:
+                contents:
+                  suggested-value: 0
+              Crossbowman:
+                contents:
+                  suggested-value: 0
+              Spearman:
+                contents:
+                  suggested-value: 0
+              Pikeman:
+                contents:
+                  suggested-value: 0
+              Maceman:
+                contents:
+                  suggested-value: 0
+              Swordsman:
+                contents:
+                  suggested-value: 0
+              Knight:
+                contents:
+                  suggested-value: 0
+              Engineer:
+                contents:
+                  suggested-value: 0
+              Monk:
+                contents:
+                  suggested-value: 0
+              ArabArcher:
+                contents:
+                  suggested-value: 6
+              Slave:
+                contents:
+                  suggested-value: 6
+              Slinger:
+                contents:
+                  suggested-value: 0
+              Assassin:
+                contents:
+                  suggested-value: 0
+              HorseArcher:
+                contents:
+                  suggested-value: 0
+              ArabSwordsman:
+                contents:
+                  suggested-value: 0
+              FireThrower:
+                contents:
+                  suggested-value: 0
+              FireBallista:
+                contents:
+                  suggested-value: 0
+            crusader:
+              EuropArcher:
+                contents:
+                  suggested-value: 0
+              Crossbowman:
+                contents:
+                  suggested-value: 0
+              Spearman:
+                contents:
+                  suggested-value: 0
+              Pikeman:
+                contents:
+                  suggested-value: 0
+              Maceman:
+                contents:
+                  suggested-value: 0
+              Swordsman:
+                contents:
+                  suggested-value: 0
+              Knight:
+                contents:
+                  suggested-value: 0
+              Engineer:
+                contents:
+                  suggested-value: 0
+              Monk:
+                contents:
+                  suggested-value: 0
+              ArabArcher:
+                contents:
+                  suggested-value: 50
+              Slave:
+                contents:
+                  suggested-value: 0
+              Slinger:
+                contents:
+                  suggested-value: 0
+              Assassin:
+                contents:
+                  suggested-value: 0
+              HorseArcher:
+                contents:
+                  suggested-value: 0
+              ArabSwordsman:
+                contents:
+                  suggested-value: 10
+              FireThrower:
+                contents:
+                  suggested-value: 0
+              FireBallista:
+                contents:
+                  suggested-value: 0
+            deathmatch:
+              EuropArcher:
+                contents:
+                  suggested-value: 0
+              Crossbowman:
+                contents:
+                  suggested-value: 0
+              Spearman:
+                contents:
+                  suggested-value: 0
+              Pikeman:
+                contents:
+                  suggested-value: 0
+              Maceman:
+                contents:
+                  suggested-value: 0
+              Swordsman:
+                contents:
+                  suggested-value: 0
+              Knight:
+                contents:
+                  suggested-value: 0
+              Engineer:
+                contents:
+                  suggested-value: 0
+              Monk:
+                contents:
+                  suggested-value: 0
+              ArabArcher:
+                contents:
+                  suggested-value: 6
+              Slave:
+                contents:
+                  suggested-value: 6
+              Slinger:
+                contents:
+                  suggested-value: 0
+              Assassin:
+                contents:
+                  suggested-value: 0
+              HorseArcher:
+                contents:
+                  suggested-value: 0
+              FireBallista:
+                contents:
+                  suggested-value: 0
+              FireThrower:
+                contents:
+                  suggested-value: 0
+              ArabSwordsman:
+                contents:
+                  suggested-value: 0
+        startGoods:
+          normal:
+            wood:
+              contents:
+                suggested-value: 100
+            hop:
+              contents:
+                suggested-value: 0
+            stone:
+              contents:
+                suggested-value: 50
+            iron:
+              contents:
+                suggested-value: 0
+            pitch:
+              contents:
+                suggested-value: 0
+            wheat:
+              contents:
+                suggested-value: 0
+            bread:
+              contents:
+                suggested-value: 60
+            cheese:
+              contents:
+                suggested-value: 0
+            meat:
+              contents:
+                suggested-value: 0
+            fruit:
+              contents:
+                suggested-value: 0
+            beer:
+              contents:
+                suggested-value: 0
+            flour:
+              contents:
+                suggested-value: 0
+            bows:
+              contents:
+                suggested-value: 0
+            crossbows:
+              contents:
+                suggested-value: 0
+            spears:
+              contents:
+                suggested-value: 0
+            pikes:
+              contents:
+                suggested-value: 0
+            maces:
+              contents:
+                suggested-value: 0
+            swords:
+              contents:
+                suggested-value: 0
+            leatherarmor:
+              contents:
+                suggested-value: 0
+            metalarmor:
+              contents:
+                suggested-value: 0
+          crusader:
+            wood:
+              contents:
+                suggested-value: 100
+            hop:
+              contents:
+                suggested-value: 0
+            stone:
+              contents:
+                suggested-value: 50
+            iron:
+              contents:
+                suggested-value: 0
+            pitch:
+              contents:
+                suggested-value: 0
+            wheat:
+              contents:
+                suggested-value: 0
+            bread:
+              contents:
+                suggested-value: 60
+            cheese:
+              contents:
+                suggested-value: 0
+            meat:
+              contents:
+                suggested-value: 0
+            fruit:
+              contents:
+                suggested-value: 0
+            beer:
+              contents:
+                suggested-value: 0
+            flour:
+              contents:
+                suggested-value: 0
+            bows:
+              contents:
+                suggested-value: 0
+            crossbows:
+              contents:
+                suggested-value: 0
+            spears:
+              contents:
+                suggested-value: 0
+            pikes:
+              contents:
+                suggested-value: 0
+            maces:
+              contents:
+                suggested-value: 0
+            swords:
+              contents:
+                suggested-value: 0
+            leatherarmor:
+              contents:
+                suggested-value: 0
+            metalarmor:
+              contents:
+                suggested-value: 0
+          deathmatch:
+            wood:
+              contents:
+                suggested-value: 150
+            hop:
+              contents:
+                suggested-value: 20
+            stone:
+              contents:
+                suggested-value: 150
+            iron:
+              contents:
+                suggested-value: 25
+            pitch:
+              contents:
+                suggested-value: 48
+            wheat:
+              contents:
+                suggested-value: 25
+            bread:
+              contents:
+                suggested-value: 200
+            cheese:
+              contents:
+                suggested-value: 0
+            meat:
+              contents:
+                suggested-value: 0
+            fruit:
+              contents:
+                suggested-value: 0
+            beer:
+              contents:
+                suggested-value: 10
+            flour:
+              contents:
+                suggested-value: 0
+            bows:
+              contents:
+                suggested-value: 0
+            crossbows:
+              contents:
+                suggested-value: 0
+            spears:
+              contents:
+                suggested-value: 0
+            pikes:
+              contents:
+                suggested-value: 0
+            maces:
+              contents:
+                suggested-value: 0
+            swords:
+              contents:
+                suggested-value: 0
+            leatherarmor:
+              contents:
+                suggested-value: 0
+            metalarmor:
+              contents:
+                suggested-value: 0
+    maploader:
+      config:
+        extra-map-directory:
+          contents:
+            suggested-value: ucp/plugins/Vanilla-Retraced-Unlocked-*/resources/maps
+        extra-map-extreme-directory:
+          contents:
+            suggested-value: ""
+    graphicsApiReplacer:
+      config:
+        window:
+          type:
+            contents:
+              suggested-value: borderlessFullscreen
+          continueOutOfFocus:
+            contents:
+              suggested-value: pause
+          width:
+            contents:
+              suggested-value: 1920
+          height:
+            contents:
+              suggested-value: 1080
+        graphic:
+          vsync:
+            contents:
+              suggested-value: true
+  plugins:
+    Aggressive-AI-Behaviour-Applied:
+      config: {}
+    Vanilla-Interpretation-Castles-Applied:
+      config: {}
+meta:
+  version: 1.0.0

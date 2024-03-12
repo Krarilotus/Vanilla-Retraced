@@ -1,0 +1,12 @@
+name: Vanilla-Retraced-Unlocked
+author: Krarilotus & Crusader Pilaw
+version: 1.0.1
+dependencies:
+  startResources: ^1.0.0
+  ucp2-legacy: ^2.15.0
+  maploader: ^1.0.0
+  graphicsApiReplacer: ^1.2.0
+  Aggressive-AI-Behaviour-Applied: ^1.4.0
+  Vanilla-Interpretation-Castles-Applied: ^1.0.2
+type: plugin
+display-name: Vanilla-Retraced-Unlocked
