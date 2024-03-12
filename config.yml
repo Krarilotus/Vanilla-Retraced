@@ -884,7 +884,7 @@ config-sparse:
             suggested-value: ucp/plugins/Vanilla-Retraced-Unlocked-*/resources/maps
         extra-map-extreme-directory:
           contents:
-            suggested-value: ""
+            suggested-value: ucp/plugins/Vanilla-Retraced-Unlocked-*/resources/maps
     graphicsApiReplacer:
       config:
         window:
@@ -905,9 +905,9 @@ config-sparse:
             contents:
               suggested-value: true
   plugins:
-    Aggressive-AI-Behaviour-Applied:
-      config: {}
     Vanilla-Interpretation-Castles-Applied:
+      config: {}
+    Aggressive-AI-Behaviour-Applied:
       config: {}
 meta:
   version: 1.0.0
