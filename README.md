@@ -39,5 +39,4 @@ tree_shrub2 = fixed levitating bush to be grounded
 [Crusader Pilaw](https://www.youtube.com/@crusaderpilaw  ) made most of the new maps for the second trail  
 [Monsterfish](https://github.com/Monsterfisch/StrongholdsOfConquest_) made the updated vanilla textures  
 [Heroesflorian](https://stronghold.heavengames.com/downloads/lister.php?search=Heroesflorian) remade map 76  
-[Nevikov](https://www.youtube.com/@RomanNevikov) remade map 62  
-[Xander10alpha](https://www.youtube.com/channel/UCYlyixfoKPcz-Ixi6Nc383Q) for his updated fixed Evrey castles and AIC    
+[Nevikov](https://www.youtube.com/@RomanNevikov) remade map 62
