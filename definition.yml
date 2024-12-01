@@ -1,7 +1,7 @@
 name: Vanilla-Retraced-Unlocked
 display-name: Vanilla Retraced Unlocked
 author: Krarilotus & Crusader Pilaw
-version: 1.0.1
+version: 1.0.2
 dependencies:
   startResources: ^1.0.0
   ucp2-legacy: ^2.15.1

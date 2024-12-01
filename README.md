@@ -1,20 +1,16 @@
 # Vanilla-Retraced
-v1.0 of Vanilla Retraced:  
+v1.0.2 of Vanilla Retraced:  
 The upgrade to Stronghold Crusader using the UCP with a new castle set for the first and second Skirmish Trail!  
-A complete pack for all 2nd trail maps and also some updated vanilla textures are included! Enjoy :D
+A complete pack for all 2nd trail maps, some updated first trail maps and also some updated vanilla textures are included! Enjoy :D
 
 Watch the official announcement trailer here:
 [![Vanilla Retraced - Stronghold Crusader Upgrade Pack](https://user-images.githubusercontent.com/51748815/226217398-dedf9a2b-272d-4d2c-a3e0-f7a86ab9d490.png)
 ](https://www.youtube.com/watch?v=xzbVAEWBDVE)
 
 ## Installation Instructions
-1. Download the code via zip by clicking on this button:  
- ![image](https://user-images.githubusercontent.com/51748815/225963075-1f2fc610-01e8-4eb5-b7dc-66361f579055.png)  
- or alternatively clone this git repository, so you will have an easier time updating when this repository will get an update for newer UCP versions.
-2. Extract the contents to a new folder inside your stronghold Crusader directory
-3. Backup the maps and the gm folder by copying them and renaming the copies into something like "maps_backup", "gm_backup" (in case you only want some textures, choose those you like from the list below)
-4. Copy and paste the gm and the maps folder into your stronghold crusader folder and accept the override
-5. Install the UCP setup, by opening the UnofficialCrusaderPatchGUI.exe inside the UCP folder and selecting your Stronghold Crusader directory. Then hit "install" and wait for the loading bar to be finished. Notice, you should close the game, before you install the Unofficial Crusader Patch on it!
+1. Download the UCP3 and install it
+2. Select the Vanilla Retraced Unlocked plugin in the contents tab and apply
+3. Enjoy a new version of the game, that feels like it should have always been this way, but be aware of the difficulty....
 
 ## Taking part in the M80 TheBigOne Challenge
 To take part in the Challenge, please refer to the rules stated inside of the [Vanilla Retraced Challenge M80.pdf](https://github.com/Krarilotus/Vanilla-Retraced/blob/main/Vanilla%20Retraced%20Challenge%20M80.pdf)
